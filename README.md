@@ -67,10 +67,10 @@ proses dehazing.
 
 | No. | Nama Anggota | Tugas | Bukti Commit |
 |---|---|---|---|
-| 1 | Ghina Salsabilla Puteri | Mengumpulkan gambar hazy dan clear       | [Lihat Commit](LINK_COMMIT) |
-| 2 | Dhiya Ul Atsqiya | Mengumpulkan gambar hazy dan clear              | [Lihat Commit](LINK_COMMIT) |
-| 3 | Aura Azahra | Mengumpulkan gambar hazy dan clear                   | [Lihat Commit](LINK_COMMIT) |
-| 4 | Putri | Mengumpulkan gambar hazy dan clear dan menyusun README.md  | [Lihat Commit](LINK_COMMIT) |
+| 1 | Ghina Salsabilla Puteri | Mengumpulkan gambar hazy dan clear       | [Lihat Commit](https://github.com/GhinaSalsabillaPuteri/BERKAS_A_-KELOMPOK_4-_Dataset_KabutAsap/commit/5a03f097b4196055556eec677034b30fbc499ded) |
+| 2 | Dhiya Ul Atsqiya | Mengumpulkan gambar hazy dan clear              | [Lihat Commit](https://github.com/GhinaSalsabillaPuteri/BERKAS_A_-KELOMPOK_4-_Dataset_KabutAsap/commit/99428bb3c392e1515a9b964696be934d2bec6cff) |
+| 3 | Aura Azahra | Mengumpulkan gambar hazy dan clear                   | [Lihat Commit](https://github.com/GhinaSalsabillaPuteri/BERKAS_A_-KELOMPOK_4-_Dataset_KabutAsap/commit/01d17111de924db0e465a86642907a95cf85ae0e) |
+| 4 | Putri | Mengumpulkan gambar hazy dan clear dan menyusun README.md  | [Lihat Commit](https://github.com/GhinaSalsabillaPuteri/BERKAS_A_-KELOMPOK_4-_Dataset_KabutAsap/commit/5a9f37a725821237a582a57ded3a7a9984d583d0) |
 
 ---
 
