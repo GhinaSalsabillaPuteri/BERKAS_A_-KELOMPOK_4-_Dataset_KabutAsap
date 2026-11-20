@@ -79,6 +79,6 @@ proses dehazing.
 **Kelompok 4 - Dataset Dehazing**
 
 1. Ghina Salsabilla Puteri - NPM 2510010057
-2. Dhiya Ul Atsqiya - NPM 2510010339
-3. Aura Azahra - NPM 2510010148
-4. Putri - NPM 2510010230
+2. Dhiya Ul Atsqiya        - NPM 2510010339
+3. Aura Azahra             - NPM 2510010148
+4. Putri                   - NPM 2510010230
