@@ -25,12 +25,12 @@ Dataset_Dehazing/
 │
 ├── hazy/
 │   ├── 001_hazy.jpg
-│   ├── 002_hazy.jpg
+│   ├── 002_hazy.png
 │   └── ...
 │
 └── clear/
-    ├── 001_clear.jpg
-    ├── 002_clear.jpg
+    ├── 001_clear.png
+    ├── 002_clear.png
     └── ...
 ```
 
